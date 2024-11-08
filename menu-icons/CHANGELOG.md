@@ -1,3 +1,12 @@
+##### [Version 0.13.16](https://github.com/codeinwp/wp-menu-icons/compare/v0.13.15...v0.13.16) (2024-11-07)
+
+- Updated dependencies
+
+##### [Version 0.13.15](https://github.com/codeinwp/wp-menu-icons/compare/v0.13.14...v0.13.15) (2024-07-10)
+
+- Removed recommendations of unsupported plugins
+- Fixed conditions for theme recommendation
+
 ##### [Version 0.13.14](https://github.com/codeinwp/wp-menu-icons/compare/v0.13.13...v0.13.14) (2024-05-14)
 
 - Enhanced security

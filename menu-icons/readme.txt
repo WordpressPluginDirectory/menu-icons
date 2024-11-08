@@ -2,7 +2,7 @@
 Contributors: codeinwp, themeisle
 Tags: menu, nav-menu, icons, navigation
 Requires at least: 4.7
-Tested up to: 6.5
+Tested up to: 6.6
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -36,9 +36,6 @@ https://www.youtube.com/watch?v=YcSotWXIczI
 
 = Planned supported icon types =
 - Image (URL)
-
-= Extensions =
-- [IcoMoon](http://wordpress.org/plugins/menu-icons-icomoon/) by [IcoMoon.io](http://icomoon.io/)
 
 = Compatible themes =
 Menu icons works with most of the themes out there, especially with popular ones like Twenty Seventeen or [Hestia](https://themeisle.com/themes/hestia/).
@@ -224,6 +221,21 @@ add_filter( 'menu_icons_menu_settings', 'my_menu_icons_menu_settings', 10, 2 );
 Read [this blog post](http://kucrut.org/add-custom-image-sizes-right-way/).
 
 == Changelog ==
+
+##### [Version 0.13.16](https://github.com/codeinwp/wp-menu-icons/compare/v0.13.15...v0.13.16) (2024-11-07)
+
+- Updated dependencies
+
+
+
+
+##### [Version 0.13.15](https://github.com/codeinwp/wp-menu-icons/compare/v0.13.14...v0.13.15) (2024-07-10)
+
+- Removed recommendations of unsupported plugins
+- Fixed conditions for theme recommendation
+
+
+
 
 ##### [Version 0.13.14](https://github.com/codeinwp/wp-menu-icons/compare/v0.13.13...v0.13.14) (2024-05-14)
 
